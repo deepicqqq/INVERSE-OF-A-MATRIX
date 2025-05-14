@@ -22,7 +22,8 @@ inverse_matrix = np.linalg.inv(matrix)\
 print("Inverse of the matrix:\n", inverse_matrix)
 
 ## Output:
-![Screenshot 2025-05-14 121622](https://github.com/user-attachments/assets/8a6192ae-a594-477d-b0cb-ba2bd292610b)
+![image](https://github.com/user-attachments/assets/ce282a18-d9a3-4f33-acf8-76e28f372254)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
